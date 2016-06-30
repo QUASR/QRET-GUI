@@ -1,0 +1,5 @@
+Started Sat Jun 11 16:31:23 2016
+16:31:23 > Trying to connect to devices
+16:31:43 > Closed payload serial connection
+
+

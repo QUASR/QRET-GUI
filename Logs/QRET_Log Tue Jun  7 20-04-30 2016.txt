@@ -1,0 +1,5 @@
+Started Tue Jun  7 20:04:30 2016
+20:4:30 > Trying to connect to devices
+20:5:48 > Closed rocket serial connection
+
+

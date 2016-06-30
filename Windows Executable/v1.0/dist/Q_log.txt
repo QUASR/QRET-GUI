@@ -1,0 +1,22 @@
+Started Mon Jun 22 11:20:50 2015
+11:20:50 > Trying to connect to COM4...
+11:20:50 > Connected to device on COM4
+11:20:57 > Closed serial device connection
+
+Started Mon Jun 22 11:21:51 2015
+11:21:51 > Trying to connect to COM4...
+11:21:51 > Connected to device on COM4
+11:21:53 > Closed serial device connection
+
+Started Tue Jul 21 10:46:31 2015
+10:46:31 > Trying to connect to COM4...
+
+Started Tue Nov  3 17:11:19 2015
+17:11:19 > Trying to connect to COM4...
+
+Started Tue Jan 19 21:29:27 2016
+21:29:27 > Trying to connect to COM4...
+21:29:27 > Connected to device on COM4
+21:29:29 > Closed serial device connection
+
+

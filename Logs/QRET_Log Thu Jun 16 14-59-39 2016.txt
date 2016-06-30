@@ -1,0 +1,4 @@
+Started Thu Jun 16 14:59:39 2016
+14:59:39 > Trying to connect to devices
+
+

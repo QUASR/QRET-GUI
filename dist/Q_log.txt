@@ -1,0 +1,6 @@
+Started Fri Mar  4 02:11:57 2016
+2:11:57 > Trying to connect to devices
+2:11:57 > Connected to rocket on COM6
+2:11:59 > Warning! Serial buffer length: 113
+
+

@@ -1,0 +1,10 @@
+Started Sun May 31 20:56:39 2015
+20:56:39 > Trying to connect to COM4...
+
+Started Sun May 31 21:10:12 2015
+21:10:12 > Trying to connect to COM4...
+
+Started Sun May 31 21:10:30 2015
+21:10:30 > Trying to connect to COM4...
+
+
